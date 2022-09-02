@@ -1,6 +1,6 @@
 # Wordle Fun
 
-I ~~am really addicted to~~ have come to really enjoy playing Wordle and have been using it as the backdrop for several of my learning projects. The sole purpose of this repo is to help me keep track of ideas I have around it and serve as a navigation page between the various projects.
+I ~~am really addicted to~~ enjoy playing Wordle and have been using it as the backdrop for several of my learning projects. The sole purpose of this repo is to help me keep track of ideas I have around it and serve as a navigation page between the various projects.
 
 Ideas (in no particular order):
 
